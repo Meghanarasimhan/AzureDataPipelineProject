@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-olympic-df-megha",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a40c06de-159b-4221-b669-d29ce1b3273c",
+		"tenantId": "750d3a3f-1f46-4da2-8a64-7605e75ea2f9"
+	}
+}
