@@ -1,0 +1,12 @@
+{
+	"name": "TeamsHTTP",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/Meghanarasimhan/AzureDataPipelineProject/ea8c2f7a963a4c199ececb303238467a0a57db1f/data/Teams.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
