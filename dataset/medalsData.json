@@ -2,7 +2,7 @@
 	"name": "medalsData",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "AzureDataLakeStorage4",
+			"referenceName": "AzureDataLakeStorage1",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],
