@@ -1,10 +1,6 @@
 {
 	"name": "GenderEntries",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "AzureDataLakeStorage3",
-			"type": "LinkedServiceReference"
-		},
 		"annotations": [],
 		"type": "DelimitedText",
 		"typeProperties": {
